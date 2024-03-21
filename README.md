@@ -64,7 +64,7 @@ Un manque de communication s'est vite fait ressentir ce qui nous a empêché d'a
 ## Equipe de conception
 - Hugo BARAS en charge de la majorité de l'aspect développement de l'application
 - Hiba en charge de la réalisation JavaFX (Scene builder)
-- Ndoumbe en charge de la conception de la base de donnée
+- Ndoumbe en charge de la conception de la base de donnée et du fiche 
 
 
 ## Contexte
@@ -158,7 +158,7 @@ J'ai beaucoup appris avec de travail notamment sur le développement JAVA.
 
 
 ### Ndoumbe:
-...
+Au début, j'ai eu du mal avec le code et à utiliser SceneBuilder. ça m'a aussi permis de comprendre la structure des bases de données et la gestion des clés étrangères. Cependant, avec de la pratique et de la persévérance, j'ai pu progresser et contribuer à créer une application fonctionnelle.
 
 
 ## Le travail d'équipe
